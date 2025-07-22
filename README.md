@@ -47,25 +47,6 @@ EmployeeAttritionSystem/
 - Contains features like Age, JobRole, MonthlyIncome, OverTime, etc.
 - Used for training a machine learning model to predict employee attrition.
 
-## How to Run Locally
-
-1. Clone the repository:
-   git clone https://github.com/yourusername/EmployeeAttritionSystem.git
-   cd EmployeeAttritionSystem
-
-2. Create a virtual environment:
-   python -m venv venv
-   venv\Scripts\activate   # On Windows
-
-3. Install the required packages:
-   pip install -r requirements.txt
-
-4. Run the Flask application:
-   python app.py
-
-5. Open your browser and go to:
-   http://localhost:5000
-
 ## Future Enhancements
 
 - Add email notification features
